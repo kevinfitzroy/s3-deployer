@@ -1,0 +1,11 @@
+{
+  "name": "s3-deployer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.821.0",
+    "mime-types": "^2.1.28",
+    "s3-upload-stream": "^1.0.7"
+  }
+}
